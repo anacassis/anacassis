@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Ana Carolina</h1>
-<h3 align="center">Apaixonada por resolução de problemas no mundo da Análise de Dados.</h3>
+<h3 align="center">Apaixonada por solução de problemas no mundo da Análise de Dados.</h3>
 
 - 🌱 Atualmente estou aprendendo **Analise de Dados, SQL e BI.**
 
